@@ -1,0 +1,478 @@
+Nombre,Posicion,Edad,Altura,Origen,Equipo,Partidos_jugados,Titutlar,Minutos,Goles,Asistencias,G+A,G-PK,Goles_penalti,Penaltis_tirados,Amarillas,Rojas,Goles_esperadospor_ocasion,Conducciones,Pases,Altura_cm,GA_por_90
+Mike Maignan,Portero,28,"1,91m",fr FRA,Milan,29,29,2609,0,1,1,0,0,0,1,1,0.0,0.0,0.0,191,0.03449597546952856
+Marco Sportiello,Portero,32,"1,92m",it ITA,Milan,7,7,630,0,0,0,0,0,0,0,0,0.0,0.0,0.0,192,0.0
+Lapo Nava,Portero,20,"1,97m",it ITA,Milan,1,0,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,197,0.0
+Antonio Mirante,Portero,40,"1,93m",it ITA,Milan,2,2,177,0,0,0,0,0,0,0,0,0.0,0.0,0.0,193,0.0
+Fikayo Tomori,Defensa central,26,"1,85m",eng ENG,Milan,26,24,2121,4,0,4,4,0,0,8,1,3.7,16.0,63.0,185,0.16973125884016974
+Malick Thiaw,Defensa central,22,"1,94m",de GER,Milan,21,19,1619,0,1,1,0,0,0,5,1,0.6,15.0,70.0,194,0.05558987029030266
+Pierre Kalulu,Defensa central,24,"1,82m",fr FRA,Milan,9,4,374,0,0,0,0,0,0,0,0,0.1,6.0,19.0,182,0.0
+Matteo Gabbia,Defensa central,24,"1,85m",it ITA,Milan,18,14,1275,2,1,3,2,0,0,5,0,1.6,11.0,42.0,185,0.21176470588235294
+Marco Pellegrino,Defensa central,21,"1,84m",it ITA,Salernitana,10,5,545,0,0,0,0,0,0,1,0,0.0,0.0,7.0,184,0.0
+Mattia Caldara,Defensa central,30,"1,87m",it ITA,Milan,1,0,33,0,0,0,0,0,0,0,0,0.2,0.0,2.0,187,0.0
+Theo Hernández,Lateral izquierdo,26,"1,84m",fr FRA,Milan,32,31,2791,5,4,9,4,1,2,11,1,4.9,115.0,166.0,184,0.29021855965603727
+Davide Bartesaghi,Lateral izquierdo,18,"1,93m",it ITA,Milan,6,0,79,0,0,0,0,0,0,0,0,0.0,1.0,3.0,193,0.0
+Davide Calabria,Lateral derecho,27,"1,76m",it ITA,Milan,29,26,2185,1,3,4,1,0,0,5,2,1.3,31.0,140.0,176,0.16475972540045766
+Filippo Terracciano,Lateral derecho,21,"1,86m",it ITA,Hellas Verona,18,14,1296,0,1,1,0,0,0,1,0,0.3,26.0,51.0,186,0.06944444444444445
+Alessandro Florenzi,Lateral derecho,33,"1,73m",it ITA,Milan,31,19,1732,1,4,5,1,0,0,5,0,1.7,29.0,106.0,173,0.25981524249422633
+Ismaël Bennacer,Pivote,26,"1,75m",dz ALG,Milan,20,13,1151,2,2,4,1,1,1,2,0,1.7,24.0,68.0,175,0.31277150304083406
+Yacine Adli,Pivote,23,"1,86m",fr FRA,Milan,24,17,1407,1,2,3,1,0,0,3,0,0.3,30.0,125.0,186,0.19189765458422176
+Tijjani Reijnders,Mediocentro,25,"1,85m",nl NED,Milan,36,33,2820,3,3,6,3,0,0,8,0,3.2,88.0,204.0,185,0.19148936170212766
+Ruben Loftus-Cheek,Mediocentro,28,"1,91m",eng ENG,Milan,29,26,2068,6,1,7,6,0,0,5,0,3.7,73.0,74.0,191,0.30464216634429403
+Yunus Musah,Mediocentro,21,"1,78m",us USA,Milan,30,13,1478,0,2,2,0,0,0,5,0,0.6,48.0,64.0,178,0.12178619756427606
+Tommaso Pobega,Mediocentro,24,"1,88m",it ITA,Milan,11,3,319,0,0,0,0,0,0,0,0,0.2,6.0,11.0,188,0.0
+Kevin Zeroli,Mediocentro,19,"1,87m",it ITA,Milan,3,0,28,0,0,0,0,0,0,0,0,0.0,0.0,1.0,187,0.0
+Rafael Leão,Extremo izquierdo,25,"1,88m",pt POR,Milan,34,29,2512,9,9,18,9,0,0,5,0,10.0,160.0,117.0,188,0.6449044585987261
+Noah Okafor,Extremo izquierdo,24,"1,85m",ch SUI,Milan,28,6,887,6,2,8,6,0,0,1,0,3.8,29.0,15.0,185,0.8117249154453212
+Christian Pulisic,Extremo derecho,25,"1,77m",us USA,Milan,36,32,2602,12,8,20,12,0,0,2,0,8.0,131.0,87.0,177,0.6917755572636434
+Samuel Chukwueze,Extremo derecho,25,"1,72m",ng NGA,Milan,24,12,1017,1,3,4,1,0,0,1,0,1.7,52.0,51.0,172,0.35398230088495575
+Francesco Camarda,Delantero centro,16,"1,89m",it ITA,Milan,2,0,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,189,0.0
+Luka Jović,Delantero centro,26,"1,82m",rs SRB,Milan,23,8,877,6,1,7,6,0,0,2,1,4.9,6.0,22.0,182,0.7183580387685291
+Lorenzo Colombo,Delantero centro,22,"1,83m",it ITA,Monza,25,16,1359,4,1,5,4,0,0,3,0,3.6,16.0,24.0,183,0.33112582781456956
+Olivier Giroud,Delantero centro,37,"1,92m",fr FRA,Milan,35,28,2363,15,8,23,11,4,5,1,1,14.2,9.0,28.0,192,0.8760050782903089
+Marco Carnesecchi,Portero,23,"1,91m",it ITA,Atalanta,27,27,2425,0,0,0,0,0,0,0,0,0.0,0.0,0.0,191,0.0
+Juan Musso,Portero,30,"1,91m",ar ARG,Atalanta,11,11,990,0,0,0,0,0,0,0,0,0.0,0.0,0.0,191,0.0
+Francesco Rossi,Portero,33,"1,93m",it ITA,Atalanta,1,0,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,193,0.0
+Giorgio Scalvini,Defensa central,20,"1,94m",it ITA,Atalanta,33,31,2544,1,3,4,1,0,0,3,0,1.4,30.0,116.0,194,0.14150943396226415
+Isak Hien,Defensa central,25,"1,91m",se SWE,Hellas Verona,10,9,864,0,0,0,0,0,0,1,1,0.4,8.0,26.0,191,0.0
+Berat Djimsiti,Defensa central,31,"1,90m",al ALB,Atalanta,37,32,2832,0,1,1,0,0,0,5,0,0.8,6.0,79.0,190,0.03177966101694915
+Rafael Tolói,Defensa central,33,"1,85m",it ITA,Atalanta,18,10,965,0,0,0,0,0,0,6,1,0.1,8.0,53.0,185,0.0
+Giovanni Bonfanti,Defensa central,21,"1,87m",it ITA,Atalanta,2,1,89,0,0,0,0,0,0,0,0,0.1,0.0,1.0,187,0.0
+José Luis Palomino,Defensa central,34,"1,88m",ar ARG,Atalanta,4,0,27,0,0,0,0,0,0,0,0,0.0,0.0,2.0,188,0.0
+Mitchel Bakker,Lateral izquierdo,24,"1,89m",nl NED,Atalanta,14,3,382,1,0,1,1,0,0,1,0,0.2,12.0,10.0,189,0.2356020942408377
+Emil Holm,Lateral derecho,24,"1,91m",se SWE,Atalanta,22,12,947,1,1,2,1,0,0,5,0,2.7,28.0,27.0,191,0.1900739176346357
+Hans Hateboer,Lateral derecho,30,"1,87m",nl NED,Atalanta,23,10,1113,0,1,1,0,0,0,5,0,0.3,19.0,42.0,187,0.08086253369272237
+Marten de Roon,Pivote,33,"1,85m",nl NED,Atalanta,30,29,2599,0,5,5,0,0,0,10,0,0.6,28.0,178.0,185,0.17314351673720663
+Leonardo Mendicino,Pivote,18,"1,82m",it ITA,Atalanta,1,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,182,0.0
+Éderson,Mediocentro,24,"1,83m",br BRA,Atalanta,36,32,2869,6,1,7,6,0,0,8,0,3.5,32.0,214.0,183,0.21958870686650403
+Davide Zappacosta,Interior derecho,32,"1,82m",it ITA,Atalanta,31,23,1867,2,1,3,2,0,0,5,0,2.2,67.0,78.0,182,0.144617032672737
+Matteo Ruggeri,Interior izquierdo,21,"1,87m",it ITA,Atalanta,34,28,2449,0,4,4,0,0,0,3,0,0.5,55.0,142.0,187,0.14699877501020825
+Teun Koopmeiners,Mediocentro ofensivo,26,"1,84m",nl NED,Atalanta,34,29,2627,12,5,17,10,2,2,5,0,6.5,79.0,169.0,184,0.5824133993148077
+Ademola Lookman,Mediapunta,26,"1,74m",ng NGA,Atalanta,31,22,1894,11,7,18,11,0,0,4,0,9.1,72.0,97.0,174,0.8553326293558606
+Gianluca Scamacca,Delantero centro,25,"1,95m",it ITA,Atalanta,29,17,1453,12,6,18,12,0,0,1,0,6.5,22.0,41.0,195,1.1149346180316586
+El Bilal Touré,Delantero centro,22,"1,85m",ml MLI,Atalanta,11,3,394,2,0,2,2,0,0,2,0,1.2,16.0,11.0,185,0.45685279187817257
+Luis Muriel,Delantero centro,33,"1,80m",co COL,Atalanta,18,2,409,2,1,3,2,0,0,0,0,1.5,19.0,24.0,180,0.6601466992665037
+Federico Ravaglia,Portero,24,"1,96m",it ITA,Bologna,6,6,535,0,0,0,0,0,0,0,0,0.0,0.0,0.0,196,0.0
+Nicola Bagnolini,Portero,20,"1,94m",it ITA,Bologna,1,0,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,194,0.0
+Sam Beukema,Defensa central,25,"1,88m",nl NED,Bologna,30,29,2547,1,1,2,1,0,0,6,1,1.9,14.0,76.0,188,0.0706713780918728
+Jhon Lucumí,Defensa central,26,"1,87m",co COL,Bologna,29,23,2217,0,0,0,0,0,0,1,0,0.8,28.0,93.0,187,0.0
+Stefan Posch,Defensa central,27,"1,90m",at AUT,Bologna,31,29,2409,1,2,3,1,0,0,7,0,1.2,44.0,123.0,190,0.11207970112079702
+Kevin Bonifazi,Defensa central,28,"1,87m",it ITA,Bologna,1,1,90,0,0,0,0,0,0,0,0,0.0,0.0,1.0,187,0.0
+Riccardo Calafiori,Lateral izquierdo,22,"1,88m",it ITA,Bologna,30,26,2349,2,5,7,2,0,0,4,0,1.4,28.0,96.0,188,0.2681992337164751
+Tommaso Corazza,Lateral izquierdo,20,"1,74m",it ITA,Bologna,9,1,195,0,0,0,0,0,0,1,0,0.1,10.0,14.0,174,0.0
+Lorenzo De Silvestri,Lateral derecho,36,"1,87m",it ITA,Bologna,15,7,674,2,0,2,2,0,0,0,0,0.2,14.0,27.0,187,0.26706231454005935
+Nikola Moro,Pivote,26,"1,84m",hr CRO,Bologna,23,10,840,1,0,1,1,0,0,0,0,0.7,21.0,58.0,184,0.10714285714285714
+Oussama El Azzouzi,Pivote,23,"1,89m",ma MAR,Bologna,18,5,547,2,2,4,2,0,0,4,0,0.5,4.0,19.0,189,0.6581352833638026
+Lewis Ferguson,Mediocentro,24,"1,81m",sct SCO,Bologna,31,31,2712,6,3,9,6,0,0,8,0,5.4,57.0,142.0,181,0.29867256637168144
+Nicolás Domínguez,Mediocentro,26,"1,79m",ar ARG,Bologna,2,1,102,0,0,0,0,0,0,0,0,0.0,1.0,9.0,179,0.0
+Michel Aebischer,Mediocentro,27,"1,83m",ch SUI,Bologna,36,26,2230,0,1,1,0,0,0,8,0,1.1,26.0,125.0,183,0.04035874439461883
+Kacper Urbanski,Mediocentro,19,"1,83m",pl POL,Bologna,22,9,926,0,1,1,0,0,0,2,0,1.1,25.0,31.0,183,0.09719222462203023
+Giovanni Fabbian,Mediocentro ofensivo,21,"1,86m",it ITA,Bologna,27,11,1057,5,2,7,5,0,0,4,0,4.2,11.0,17.0,186,0.5960264900662252
+Jesper Karlsson,Extremo izquierdo,25,"1,79m",se SWE,Bologna,7,4,344,0,0,0,0,0,0,0,0,0.4,13.0,16.0,179,0.0
+Riccardo Orsolini,Extremo derecho,27,"1,83m",it ITA,Bologna,33,19,1792,10,2,12,8,2,3,2,0,7.4,51.0,71.0,183,0.6026785714285714
+Dan Ndoye,Extremo derecho,23,"1,84m",ch SUI,Bologna,32,20,1771,1,1,2,1,0,0,4,0,4.9,88.0,36.0,184,0.10163749294184077
+Alexis Saelemaekers,Extremo derecho,25,"1,80m",be BEL,Bologna,30,21,1887,4,2,6,4,0,0,7,1,2.6,65.0,77.0,180,0.28616852146263916
+Joshua Zirkzee,Delantero centro,23,"1,93m",nl NED,Bologna,34,32,2759,11,4,15,9,2,2,8,0,9.0,53.0,86.0,193,0.48930772018847407
+Santiago Castro,Delantero centro,19,"1,79m",ar ARG,Bologna,8,2,242,1,1,2,1,0,0,1,0,1.0,1.0,1.0,179,0.743801652892562
+Simone Scuffet,Portero,28,"1,93m",it ITA,Cagliari,31,31,2789,0,0,0,0,0,0,3,0,0.0,0.0,1.0,193,0.0
+Boris Radunović,Portero,28,"1,94m",rs SRB,Cagliari,7,7,630,0,0,0,0,0,0,0,0,0.0,0.0,0.0,194,0.0
+Simone Aresti,Portero,38,"1,87m",it ITA,Cagliari,1,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,187,0.0
+Alberto Dossena,Defensa central,25,"1,95m",it ITA,Cagliari,35,33,2977,2,4,6,2,0,0,5,0,2.2,9.0,89.0,195,0.18139066174000673
+Adam Obert,Defensa central,21,"1,88m",sk SVK,Cagliari,17,10,941,0,0,0,0,0,0,1,0,0.1,14.0,37.0,188,0.0
+Mateusz Wieteska,Defensa central,27,"1,87m",pl POL,Cagliari,19,10,965,0,1,1,0,0,0,5,1,0.3,16.0,33.0,187,0.09326424870466322
+Yerry Mina,Defensa central,29,"1,95m",co COL,Fiorentina,4,0,44,0,0,0,0,0,0,1,0,0.1,0.0,2.0,195,0.0
+Pantelis Hatzidiakos,Defensa central,27,"1,85m",gr GRE,Cagliari,13,13,856,0,0,0,0,0,0,1,0,0.4,3.0,34.0,185,0.0
+Edoardo Goldaniga,Defensa central,30,"1,93m",it ITA,Cagliari,13,12,1011,0,0,0,0,0,0,3,0,0.5,9.0,50.0,193,0.0
+Tommaso Augello,Lateral izquierdo,29,"1,80m",it ITA,Cagliari,32,28,2418,1,1,2,1,0,0,5,0,0.5,62.0,96.0,180,0.07444168734491315
+Paulo Azzi,Lateral izquierdo,29,"1,88m",br BRA,Cagliari,25,9,950,0,0,0,0,0,0,1,0,1.2,47.0,35.0,188,0.0
+Gabriele Zappa,Lateral derecho,24,"1,87m",it ITA,Cagliari,38,25,2561,1,3,4,1,0,0,2,0,1.5,35.0,99.0,187,0.14057008980866847
+Alessandro Di Pardo,Lateral derecho,24,"1,82m",it ITA,Cagliari,15,2,359,0,0,0,0,0,0,0,0,0.1,6.0,11.0,182,0.0
+Matteo Prati,Pivote,20,"1,85m",it ITA,Cagliari,26,19,1972,1,1,2,1,0,0,4,0,2.0,8.0,66.0,185,0.09127789046653144
+Antoine Makoumbou,Pivote,25,"1,87m",cg CGO,Cagliari,32,32,2702,1,0,1,1,0,0,5,2,0.7,37.0,137.0,187,0.033308660251665435
+Ibrahim Sulemana,Pivote,21,"1,80m",gh GHA,Cagliari,21,16,1339,2,0,2,2,0,0,4,0,0.8,15.0,27.0,180,0.1344286781179985
+Nahitan Nández,Mediocentro,28,"1,72m",uy URU,Cagliari,33,29,2341,2,3,5,1,1,1,7,0,3.7,57.0,76.0,172,0.19222554463904312
+Alessandro Deiola,Mediocentro,28,"1,90m",it ITA,Cagliari,27,19,1608,1,0,1,1,0,0,7,0,2.5,9.0,64.0,190,0.055970149253731345
+Jakub Jankto,Interior izquierdo,28,"1,84m",cz CZE,Cagliari,18,13,872,1,2,3,1,0,0,0,0,1.5,12.0,26.0,184,0.3096330275229358
+Gaetano Oristanio,Mediocentro ofensivo,21,"1,74m",it ITA,Cagliari,25,11,1104,2,1,3,2,0,0,1,0,1.8,25.0,26.0,174,0.24456521739130432
+Nicolas Viola,Mediocentro ofensivo,34,"1,80m",it ITA,Cagliari,26,11,1207,5,2,7,5,0,1,3,0,3.4,22.0,57.0,180,0.5219552609776305
+Marco Mancosu,Mediocentro ofensivo,35,"1,77m",it ITA,Cagliari,6,3,156,0,0,0,0,0,1,0,0,1.2,4.0,8.0,177,0.0
+Zito Luvumbo,Delantero centro,22,"1,71m",ao ANG,Cagliari,30,19,1946,4,5,9,4,0,0,5,0,4.0,85.0,21.0,171,0.4162384378211716
+Eldor Shomurodov,Delantero centro,29,"1,90m",uz UZB,Cagliari,22,10,936,3,3,6,3,0,0,1,0,3.5,12.0,18.0,190,0.5769230769230769
+Andrea Petagna,Delantero centro,29,"1,90m",it ITA,Cagliari,18,13,995,1,1,2,1,0,0,2,0,1.6,11.0,14.0,190,0.18090452261306533
+Gianluca Lapadula,Delantero centro,34,"1,78m",pe PER,Cagliari,23,14,1205,3,1,4,2,1,1,3,0,4.8,8.0,4.0,178,0.2987551867219917
+Leonardo Pavoletti,Delantero centro,35,"1,88m",it ITA,Cagliari,19,5,628,4,1,5,4,0,0,4,0,2.6,1.0,16.0,188,0.7165605095541401
+Elia Caprile,Portero,22,"1,91m",it ITA,Empoli,23,23,2070,0,0,0,0,0,0,0,0,0.0,0.0,0.0,191,0.0
+Samuele Perisan,Portero,26,"1,92m",it ITA,Empoli,1,1,90,0,0,0,0,0,0,0,0,0.0,0.0,0.0,192,0.0
+Etrit Berisha,Portero,35,"1,94m",al ALB,Empoli,14,14,1260,0,0,0,0,0,0,0,0,0.0,0.0,0.0,194,0.0
+Sebastiano Luperto,Defensa central,27,"1,91m",it ITA,Empoli,38,38,3406,1,1,2,1,0,0,4,0,1.7,13.0,100.0,191,0.052847915443335294
+Ardian Ismajli,Defensa central,27,"1,87m",al ALB,Empoli,26,23,2045,0,0,0,0,0,0,2,0,0.3,9.0,49.0,187,0.0
+Sebastian Walukiewicz,Defensa central,24,"1,88m",pl POL,Empoli,27,23,2055,0,0,0,0,0,0,6,0,0.1,14.0,45.0,188,0.0
+Giuseppe Pezzella,Lateral izquierdo,26,"1,87m",it ITA,Empoli,19,14,1085,0,0,0,0,0,0,4,0,0.2,44.0,44.0,187,0.0
+Liberato Cacace,Lateral izquierdo,23,"1,83m",nz NZL,Empoli,31,18,1912,0,1,1,0,0,0,6,0,0.4,34.0,84.0,183,0.047071129707112976
+Tyronne Ebuehi,Lateral derecho,28,"1,87m",ng NGA,Empoli,15,11,1099,0,1,1,0,0,0,0,0,0.3,34.0,37.0,187,0.0818926296633303
+Bartosz Bereszyński,Lateral derecho,31,"1,83m",pl POL,Empoli,24,22,1762,0,1,1,0,0,0,3,0,0.1,15.0,69.0,183,0.0510783200908059
+Răzvan Marin,Pivote,28,"1,78m",ro ROU,Empoli,30,20,1818,0,3,3,0,0,0,3,0,1.1,21.0,72.0,178,0.1485148514851485
+Alberto Grassi,Pivote,29,"1,83m",it ITA,Empoli,27,22,1807,0,1,1,0,0,0,6,1,1.1,13.0,75.0,183,0.04980630879911455
+Jacopo Fazzini,Mediocentro,21,"1,78m",it ITA,Empoli,31,14,1232,1,1,2,1,0,0,6,0,1.2,24.0,47.0,178,0.14610389610389612
+Filippo Ranocchia,Mediocentro,23,"1,86m",it ITA,Empoli,9,5,476,0,0,0,0,0,0,3,0,0.2,5.0,21.0,186,0.0
+Simone Bastoni,Mediocentro,27,"1,81m",it ITA,Empoli,16,9,745,1,0,1,1,0,0,3,0,0.4,12.0,31.0,181,0.12080536912751677
+Emmanuel Gyasi,Interior derecho,30,"1,81m",gh GHA,Empoli,33,21,1879,1,2,3,1,0,0,8,0,3.5,15.0,41.0,181,0.14369345396487496
+Tommaso Baldanzi,Mediocentro ofensivo,21,"1,70m",it ITA,Empoli,14,8,745,2,0,2,2,0,0,1,0,2.1,20.0,30.0,170,0.24161073825503354
+Daniel Maldini,Mediocentro ofensivo,22,"1,88m",it ITA,Monza,11,2,333,4,1,5,4,0,0,0,0,1.3,15.0,10.0,188,1.3513513513513513
+Andrea Sodero,Mediocentro ofensivo,19,-,it ITA,Empoli,1,0,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,,0.0
+Nicolò Cambiaghi,Extremo izquierdo,23,"1,73m",it ITA,Empoli,37,29,2553,1,1,2,1,0,0,3,0,3.9,128.0,63.0,173,0.07050528789659224
+Matteo Cancellieri,Extremo derecho,22,"1,85m",it ITA,Empoli,36,18,1788,4,3,7,4,0,0,7,0,4.7,48.0,26.0,185,0.3523489932885906
+Roberto Piccoli,Delantero centro,23,"1,90m",it ITA,Empoli,2,0,39,0,0,0,0,0,0,0,0,0.1,0.0,1.0,190,0.0
+M'Baye Niang,Delantero centro,29,"1,88m",sn SEN,Empoli,14,5,708,6,1,7,2,4,4,1,0,5.4,13.0,11.0,188,0.8898305084745763
+Alberto Cerri,Delantero centro,28,"1,94m",it ITA,Empoli,12,10,545,1,0,1,1,0,0,2,0,1.2,3.0,9.0,194,0.1651376146788991
+Francesco Caputo,Delantero centro,36,"1,81m",it ITA,Empoli,20,15,1268,3,0,3,2,1,1,0,0,3.4,7.0,18.0,181,0.21293375394321767
+Mattia Destro,Delantero centro,33,"1,82m",it ITA,Empoli,15,3,366,0,0,0,0,0,0,2,0,1.2,4.0,4.0,182,0.0
+Giacomo Corona,Delantero centro,20,"1,95m",it ITA,Empoli,1,0,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,195,0.0
+Oliver Christensen,Portero,25,"1,90m",dk DEN,Fiorentina,4,4,360,0,0,0,0,0,0,0,0,0.0,0.0,0.0,190,0.0
+Pietro Terracciano,Portero,34,"1,93m",it ITA,Fiorentina,33,33,2970,0,0,0,0,0,0,3,0,0.0,0.0,0.0,193,0.0
+Tommaso Martinelli,Portero,18,"1,94m",it ITA,Fiorentina,1,1,90,0,0,0,0,0,0,0,0,1.6411764705882355,22.659663865546218,47.955882352941174,194,0.0
+Nikola Milenković,Defensa central,26,"1,95m",rs SRB,Fiorentina,34,27,2510,0,0,0,0,0,0,4,0,0.4,8.0,81.0,195,0.0
+Lucas Martínez Quarta,Defensa central,28,"1,83m",ar ARG,Fiorentina,29,26,2291,5,1,6,5,0,0,9,0,2.7,23.0,177.0,183,0.2357049323439546
+Luca Ranieri,Defensa central,25,"1,87m",it ITA,Fiorentina,26,23,2065,2,1,3,2,0,0,14,0,0.9,17.0,99.0,187,0.13075060532687652
+Pietro Comuzzo,Defensa central,19,"1,85m",it ITA,Fiorentina,4,0,43,0,0,0,0,0,0,1,0,0.0,0.0,3.0,185,0.0
+Fabiano Parisi,Lateral izquierdo,23,"1,78m",it ITA,Fiorentina,21,16,1454,0,1,1,0,0,0,4,0,0.9,50.0,78.0,178,0.06189821182943604
+Cristiano Biraghi,Lateral izquierdo,31,"1,85m",it ITA,Fiorentina,29,27,2356,2,5,7,2,0,1,8,0,1.6,55.0,129.0,185,0.267402376910017
+Michael Kayode,Lateral derecho,19,"1,79m",it ITA,Fiorentina,26,22,2058,1,1,2,1,0,0,2,0,0.5,45.0,80.0,179,0.08746355685131195
+Dodô,Lateral derecho,25,"1,66m",br BRA,Fiorentina,9,7,523,0,0,0,0,0,0,0,0,0.1,20.0,39.0,166,0.0
+Davide Faraoni,Lateral derecho,32,"1,80m",it ITA,Hellas Verona,11,7,602,0,1,1,0,0,0,5,0,0.4,13.0,28.0,180,0.14950166112956811
+Arthur Melo,Pivote,27,"1,72m",br BRA,Fiorentina,33,23,1986,2,3,5,1,1,1,2,0,1.0,21.0,133.0,172,0.22658610271903323
+Rolando Mandragora,Pivote,27,"1,83m",it ITA,Fiorentina,33,16,1588,3,3,6,3,0,0,5,0,3.5,7.0,93.0,183,0.34005037783375314
+Maxime Lopez,Pivote,26,"1,67m",fr FRA,Fiorentina,19,7,800,0,0,0,0,0,0,1,0,0.2,14.0,48.0,167,0.0
+Lorenzo Amatucci,Pivote,20,"1,72m",it ITA,Fiorentina,2,0,22,0,0,0,0,0,0,0,0,0.0,1.0,2.0,172,0.0
+Gaetano Castrovilli,Mediocentro,27,"1,87m",it ITA,Fiorentina,6,5,367,1,2,3,1,0,0,0,0,0.3,14.0,12.0,187,0.7356948228882835
+Alfred Duncan,Mediocentro,31,"1,78m",gh GHA,Fiorentina,30,24,1888,2,5,7,2,0,0,2,0,1.5,23.0,133.0,178,0.3336864406779661
+Gino Infantino,Mediocentro,21,"1,78m",ar ARG,Fiorentina,6,0,96,0,0,0,0,0,0,1,0,0.0,0.0,7.0,178,0.0
+Lucas Beltrán,Mediocentro ofensivo,23,"1,76m",ar ARG,Fiorentina,32,21,1692,6,2,8,5,1,1,6,0,3.8,12.0,49.0,176,0.425531914893617
+Antonín Barák,Mediocentro ofensivo,29,"1,90m",cz CZE,Fiorentina,21,8,808,2,3,5,2,0,0,2,0,1.5,17.0,33.0,190,0.556930693069307
+Giacomo Bonaventura,Mediocentro ofensivo,34,"1,80m",it ITA,Fiorentina,31,27,2277,8,3,11,8,0,1,6,0,5.7,60.0,140.0,180,0.43478260869565216
+Riccardo Sottil,Extremo izquierdo,25,"1,80m",it ITA,Fiorentina,22,13,1103,2,3,5,2,0,0,1,0,2.6,66.0,33.0,180,0.40797824116047143
+Josip Brekalo,Extremo izquierdo,26,"1,75m",hr CRO,Fiorentina,11,8,652,1,0,1,1,0,0,0,0,0.4,14.0,25.0,175,0.13803680981595093
+Christian Kouamé,Delantero centro,26,"1,85m",ci CIV,Fiorentina,23,11,1089,2,1,3,2,0,0,0,0,1.9,12.0,41.0,185,0.24793388429752067
+M'Bala Nzola,Delantero centro,27,"1,85m",ao ANG,Fiorentina,33,15,1552,3,3,6,2,1,1,2,0,4.5,21.0,29.0,185,0.34793814432989695
+Andrea Belotti,Delantero centro,30,"1,81m",it ITA,Fiorentina,15,11,949,3,0,3,3,0,0,0,0,3.7,10.0,15.0,181,0.2845100105374078
+Stefano Turati,Portero,22,"1,88m",it ITA,Frosinone,31,31,2745,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Michele Cerofolini,Portero,25,"1,88m",it ITA,Frosinone,8,7,675,0,0,0,0,0,0,1,0,0.0,0.0,0.0,188,0.0
+Caleb Okoli,Defensa central,22,"1,91m",it ITA,Frosinone,34,32,2914,0,1,1,0,0,0,9,0,0.6,22.0,118.0,191,0.03088538091969801
+Ilario Monterisi,Defensa central,22,"1,90m",it ITA,Frosinone,24,16,1469,2,2,4,2,0,0,1,0,1.1,4.0,47.0,190,0.2450646698434309
+Simone Romagnoli,Defensa central,34,"1,93m",it ITA,Frosinone,33,30,2715,1,1,2,1,0,0,6,0,1.2,2.0,47.0,193,0.06629834254143646
+Mateus Lusuardi,Defensa central,20,"1,90m",br BRA,Frosinone,4,3,219,0,0,0,0,0,0,1,0,0.1,2.0,12.0,190,0.0
+Riccardo Marchizza,Lateral izquierdo,26,"1,86m",it ITA,Frosinone,13,13,1148,0,4,4,0,0,0,1,0,0.4,6.0,36.0,186,0.313588850174216
+Emanuele Valeri,Lateral izquierdo,25,"1,80m",it ITA,Frosinone,16,14,1178,0,1,1,0,0,0,3,0,0.9,38.0,41.0,180,0.07640067911714771
+Anthony Oyono,Lateral derecho,23,"1,84m",ga GAB,Frosinone,16,14,1198,0,1,1,0,0,0,4,0,0.1,35.0,33.0,184,0.07512520868113522
+Pol Lirola,Lateral derecho,26,"1,83m",es ESP,Frosinone,25,18,1536,2,1,3,2,0,0,1,0,1.3,30.0,65.0,183,0.17578125
+Enzo Barrenechea,Pivote,23,"1,86m",ar ARG,Frosinone,36,32,2811,0,1,1,0,0,0,10,0,0.6,10.0,155.0,186,0.032017075773746
+Luca Mazzitelli,Mediocentro,28,"1,84m",it ITA,Frosinone,29,26,2210,5,0,5,5,0,0,6,1,2.3,18.0,167.0,184,0.20361990950226244
+Abdou Harroui,Mediocentro,26,"1,82m",nl NED,Frosinone,18,13,1019,3,3,6,2,1,1,2,0,3.1,43.0,38.0,182,0.5299313052011776
+Mehdi Bourabia,Mediocentro,32,"1,83m",ma MAR,Frosinone,10,3,200,0,0,0,0,0,0,1,0,0.1,1.0,7.0,183,0.0
+Nadir Zortea,Interior derecho,25,"1,87m",it ITA,Frosinone,14,14,1258,1,5,6,1,0,0,3,0,0.4,31.0,42.0,187,0.4292527821939587
+Reinier,Mediocentro ofensivo,22,"1,85m",br BRA,Frosinone,22,13,1059,2,2,4,2,0,0,3,0,1.3,10.0,32.0,185,0.3399433427762039
+Luca Garritano,Mediocentro ofensivo,30,"1,72m",it ITA,Frosinone,12,5,485,0,0,0,0,0,0,1,0,0.7,6.0,23.0,172,0.0
+Francesco Gelli,Mediocentro ofensivo,27,"1,73m",it ITA,Frosinone,27,16,1561,0,0,0,0,0,0,3,0,0.7,42.0,61.0,173,0.0
+Giuseppe Caso,Extremo izquierdo,25,"1,72m",it ITA,Frosinone,14,2,417,0,0,0,0,0,0,2,0,0.3,15.0,20.0,172,0.0
+Jaime Báez,Extremo izquierdo,29,"1,78m",uy URU,Frosinone,11,6,500,1,0,1,1,0,0,1,0,0.5,12.0,29.0,178,0.18
+Demba Seck,Extremo derecho,23,"1,90m",sn SEN,Torino,9,5,425,0,0,0,0,0,0,1,0,0.3,23.0,12.0,190,0.0
+Walid Cheddira,Delantero centro,26,"1,87m",ma MAR,Frosinone,36,24,2120,7,1,8,6,1,1,0,0,9.0,31.0,22.0,187,0.33962264150943394
+Kaio Jorge,Delantero centro,22,"1,82m",br BRA,Frosinone,20,8,812,3,0,3,2,1,2,2,0,5.4,6.0,11.0,182,0.33251231527093594
+Marvin Cuni,Delantero centro,22,"1,88m",al ALB,Frosinone,22,6,534,1,0,1,1,0,0,0,0,1.3,6.0,11.0,188,0.16853932584269662
+Nicola Leali,Portero,31,"1,93m",it ITA,Genoa,3,2,176,0,0,0,0,0,0,1,0,0.0,0.0,0.0,193,0.0
+Daniele Sommariva,Portero,26,"1,85m",it ITA,Genoa,1,0,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,185,0.0
+Radu Drăgușin,Defensa central,22,"1,91m",ro ROU,Genoa,19,19,1710,2,1,3,2,0,0,1,0,1.0,6.0,29.0,191,0.15789473684210525
+Johan Vásquez,Defensa central,25,"1,85m",mx MEX,Genoa,37,32,2850,1,1,2,1,0,0,6,0,1.9,29.0,81.0,185,0.06315789473684211
+Alan Matturro,Defensa central,19,"1,89m",uy URU,Genoa,6,1,106,0,0,0,0,0,0,0,0,0.1,0.0,4.0,189,0.0
+Mattia Bani,Defensa central,30,"1,88m",it ITA,Genoa,27,27,2306,2,0,2,2,0,0,9,0,1.2,5.0,37.0,188,0.07805724197745012
+Giorgio Cittadini,Defensa central,22,"1,93m",it ITA,Monza,1,0,15,0,0,0,0,0,0,1,0,0.0,1.0,1.0,193,0.0
+Alessandro Vogliacco,Defensa central,25,"1,86m",it ITA,Genoa,20,14,1169,0,1,1,0,0,0,4,0,0.4,8.0,49.0,186,0.07698887938408897
+Davide Biraschi,Defensa central,29,"1,82m",it ITA,Genoa,1,1,90,1,0,1,1,0,0,0,0,0.1,0.0,5.0,182,1.0
+Aarón Martín,Lateral izquierdo,27,"1,78m",es ESP,Genoa,22,17,1376,0,1,1,0,0,0,4,1,0.2,28.0,35.0,178,0.06540697674418604
+Ridgeciano Haps,Lateral izquierdo,31,"1,75m",sr SUR,Genoa,16,7,773,0,1,1,0,0,0,0,0,0.1,13.0,13.0,175,0.1164294954721863
+Djed Spence,Lateral derecho,23,"1,84m",eng ENG,Genoa,16,8,859,0,0,0,0,0,0,1,0,0.2,17.0,25.0,184,0.0
+Stefano Sabelli,Lateral derecho,31,"1,76m",it ITA,Genoa,32,30,2429,0,1,1,0,0,0,5,0,0.8,69.0,88.0,176,0.03705228489090161
+Emil Bohinen,Pivote,25,"1,89m",no NOR,Genoa,5,0,56,0,0,0,0,0,0,0,0,0.0,1.0,3.0,189,0.0
+Milan Badelj,Pivote,35,"1,86m",hr CRO,Genoa,33,32,2535,1,3,4,1,0,0,6,0,1.4,18.0,151.0,186,0.14201183431952663
+Morten Frendrup,Mediocentro,23,"1,78m",dk DEN,Genoa,37,36,3145,2,5,7,2,0,0,6,0,1.7,36.0,105.0,178,0.20031796502384738
+Berkan Kutlu,Mediocentro,26,"1,86m",tr TUR,Genoa,6,0,199,0,0,0,0,0,0,0,0,0.2,4.0,5.0,186,0.0
+Kevin Strootman,Mediocentro,34,"1,86m",nl NED,Genoa,27,15,1207,0,2,2,0,0,0,4,0,0.1,13.0,61.0,186,0.14913007456503727
+Ruslan Malinovskyi,Mediocentro ofensivo,31,"1,81m",ua UKR,Genoa,28,18,1544,4,1,5,4,0,0,7,0,1.1,24.0,83.0,181,0.2914507772020726
+Christos Papadopoulos,Mediocentro ofensivo,19,"1,88m",gr GRE,Genoa,1,0,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Junior Messias,Extremo derecho,33,"1,74m",br BRA,Genoa,18,13,1053,1,0,1,1,0,0,0,0,1.6,35.0,29.0,174,0.08547008547008547
+Seydou Fini,Extremo derecho,18,"1,78m",it ITA,Genoa,3,0,35,0,0,0,0,0,0,0,0,0.1,1.0,0.0,178,0.0
+Mateo Retegui,Delantero centro,25,"1,86m",it ITA,Genoa,29,26,2216,7,2,9,6,1,1,5,0,5.8,18.0,17.0,186,0.3655234657039711
+Caleb Ekuban,Delantero centro,30,"1,82m",gh GHA,Genoa,29,10,1131,4,1,5,4,0,0,0,0,2.9,14.0,15.0,182,0.3978779840848806
+Yann Sommer,Portero,35,"1,83m",ch SUI,Inter,34,34,3060,0,0,0,0,0,0,1,0,0.0,0.0,0.0,183,0.0
+Emil Audero,Portero,27,"1,92m",it ITA,Inter,4,4,337,0,0,0,0,0,0,0,0,0.0,0.0,0.0,192,0.0
+Raffaele Di Gennaro,Portero,30,"1,88m",it ITA,Inter,1,0,23,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Alessandro Bastoni,Defensa central,25,"1,90m",it ITA,Inter,28,28,2268,1,3,4,1,0,0,5,0,1.2,63.0,142.0,190,0.15873015873015872
+Benjamin Pavard,Defensa central,28,"1,86m",fr FRA,Inter,23,21,1672,0,2,2,0,0,0,6,0,0.7,25.0,89.0,186,0.10765550239234449
+Stefan de Vrij,Defensa central,32,"1,89m",nl NED,Inter,25,17,1586,1,0,1,1,0,0,0,0,0.6,6.0,43.0,189,0.05674653215636822
+Francesco Acerbi,Defensa central,36,"1,92m",it ITA,Inter,29,26,2388,3,1,4,3,0,0,1,0,1.6,21.0,87.0,192,0.1507537688442211
+Federico Dimarco,Lateral izquierdo,26,"1,75m",it ITA,Inter,30,29,2077,5,6,11,5,0,0,0,0,2.9,51.0,100.0,175,0.4766490129995185
+Denzel Dumfries,Lateral derecho,28,"1,88m",nl NED,Inter,31,19,1639,4,4,8,4,0,0,2,1,2.3,50.0,51.0,188,0.43929225137278827
+Matteo Darmian,Lateral derecho,34,"1,83m",it ITA,Inter,33,27,2404,2,1,3,2,0,0,2,0,1.2,18.0,72.0,183,0.11231281198003328
+Hakan Çalhanoğlu,Pivote,30,"1,78m",tr TUR,Inter,32,32,2556,13,3,16,3,10,10,5,0,10.1,45.0,186.0,178,0.5633802816901409
+Kristjan Asllani,Pivote,22,"1,75m",al ALB,Inter,23,6,787,1,2,3,1,0,0,1,0,0.6,5.0,32.0,175,0.3430749682337993
+Nicolò Barella,Mediocentro,27,"1,75m",it ITA,Inter,37,34,2846,2,3,5,2,0,0,7,0,5.1,68.0,278.0,175,0.15811665495432184
+Henrikh Mkhitaryan,Mediocentro,35,"1,77m",am ARM,Inter,36,35,2785,2,8,10,2,0,0,4,0,3.6,92.0,192.0,177,0.32315978456014366
+Davy Klaassen,Mediocentro,31,"1,79m",nl NED,Inter,13,1,206,0,0,0,0,0,0,1,0,0.1,1.0,7.0,179,0.0
+Stefano Sensi,Mediocentro,28,"1,68m",it ITA,Inter,4,0,46,0,1,1,0,0,0,0,0,0.1,3.0,3.0,168,1.956521739130435
+Ebenezer Akinsanmiro,Mediocentro,19,"1,84m",ng NGA,Inter,1,0,15,0,0,0,0,0,0,0,0,0.0,0.0,2.0,184,0.0
+Juan Cuadrado,Interior derecho,36,"1,76m",co COL,Inter,10,0,267,0,2,2,0,0,0,1,0,0.2,17.0,11.0,176,0.6741573033707865
+Tajon Buchanan,Extremo derecho,25,"1,83m",ca CAN,Inter,10,0,161,1,0,1,1,0,0,0,0,0.2,12.0,4.0,183,0.5590062111801242
+Lautaro Martínez,Delantero centro,26,"1,74m",ar ARG,Inter,33,31,2656,24,3,27,22,2,3,5,0,17.6,54.0,80.0,174,0.9149096385542168
+Marcus Thuram,Delantero centro,26,"1,92m",fr FRA,Inter,35,34,2687,13,7,20,13,0,0,3,0,14.3,68.0,47.0,192,0.6698920729438035
+Alexis Sánchez,Delantero centro,35,"1,69m",cl CHI,Inter,23,6,763,2,5,7,1,1,1,0,0,3.2,16.0,53.0,169,0.8256880733944955
+Mattia Perin,Portero,31,"1,88m",it ITA,Juventus,3,3,225,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Carlo Pinsoglio,Portero,34,"1,94m",it ITA,Juventus,1,0,45,0,0,0,0,0,0,0,0,0.0,0.0,0.0,194,0.0
+Federico Gatti,Defensa central,26,"1,90m",it ITA,Juventus,32,30,2637,4,0,4,4,0,0,7,0,5.5,52.0,122.0,190,0.13651877133105803
+Tiago Djaló,Defensa central,24,"1,90m",pt POR,Juventus,1,0,17,0,0,0,0,0,0,0,0,0.0,1.0,2.0,190,0.0
+Danilo,Defensa central,32,"1,84m",br BRA,Juventus,29,27,2452,1,1,2,1,0,0,7,0,1.3,18.0,161.0,184,0.0734094616639478
+Daniele Rugani,Defensa central,29,"1,90m",it ITA,Juventus,17,13,1187,2,0,2,2,0,0,2,0,1.6,2.0,46.0,190,0.15164279696714406
+Andrea Cambiaso,Lateral izquierdo,24,"1,82m",it ITA,Juventus,34,28,2372,2,3,5,2,0,0,10,0,2.2,87.0,71.0,182,0.1897133220910624
+Alex Sandro,Lateral izquierdo,33,"1,80m",br BRA,Juventus,16,8,721,1,0,1,1,0,0,1,0,0.4,16.0,43.0,180,0.12482662968099861
+Mattia De Sciglio,Lateral derecho,31,"1,83m",it ITA,Juventus,1,1,45,0,0,0,0,0,0,0,0,0.0,0.0,3.0,183,0.0
+Manuel Locatelli,Pivote,26,"1,85m",it ITA,Juventus,36,34,3008,1,4,5,1,0,0,6,0,1.3,21.0,232.0,185,0.14960106382978722
+Adrien Rabiot,Mediocentro,29,"1,91m",fr FRA,Juventus,31,30,2651,5,3,8,5,0,0,8,0,3.5,72.0,120.0,191,0.2715956242927197
+Weston McKennie,Mediocentro,25,"1,85m",us USA,Juventus,34,29,2594,0,7,7,0,0,0,6,0,3.0,64.0,92.0,185,0.24286815728604472
+Fabio Miretti,Mediocentro,20,"1,80m",it ITA,Juventus,25,16,1103,1,1,2,1,0,0,3,0,1.2,22.0,43.0,180,0.16319129646418856
+Nicolò Fagioli,Mediocentro,23,"1,78m",it ITA,Juventus,8,4,437,0,2,2,0,0,0,1,0,0.4,8.0,23.0,178,0.41189931350114417
+Carlos Alcaraz,Mediocentro,21,"1,76m",ar ARG,Juventus,10,3,380,0,1,1,0,0,0,0,0,0.4,6.0,27.0,176,0.23684210526315788
+Joseph Nonge,Mediocentro,19,"1,84m",be BEL,Juventus,2,0,24,0,0,0,0,0,0,1,0,0.0,1.0,2.0,184,0.0
+Paul Pogba,Mediocentro,31,"1,91m",fr FRA,Juventus,2,0,54,0,0,0,0,0,0,0,0,0.0,1.0,5.0,191,0.0
+Filip Kostić,Interior izquierdo,31,"1,84m",rs SRB,Juventus,29,26,1815,0,4,4,0,0,0,2,0,0.7,64.0,88.0,184,0.1983471074380165
+Nikola Sekulov,Mediocentro ofensivo,22,"1,85m",it ITA,Juventus,1,0,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,185,0.0
+Kenan Yıldız,Extremo izquierdo,19,"1,87m",tr TUR,Juventus,27,9,952,2,0,2,2,0,0,3,0,1.6,32.0,40.0,187,0.18907563025210083
+Samuel Iling-Junior,Extremo izquierdo,20,"1,82m",eng ENG,Juventus,24,4,810,1,2,3,1,0,0,1,0,0.7,29.0,25.0,182,0.3333333333333333
+Federico Chiesa,Extremo derecho,26,"1,75m",it ITA,Juventus,33,25,2197,9,2,11,8,1,1,1,0,6.4,111.0,70.0,175,0.45061447428311335
+Timothy Weah,Extremo derecho,24,"1,83m",us USA,Juventus,30,12,1258,0,1,1,0,0,0,5,0,1.5,35.0,48.0,183,0.07154213036565978
+Dušan Vlahović,Delantero centro,24,"1,90m",rs SRB,Juventus,33,27,2307,16,4,20,14,2,4,8,1,16.6,36.0,46.0,190,0.7802340702210664
+Moise Kean,Delantero centro,24,"1,83m",it ITA,Juventus,19,8,654,0,0,0,0,0,0,2,0,2.1,12.0,6.0,183,0.0
+Arkadiusz Milik,Delantero centro,30,"1,86m",pl POL,Juventus,32,7,919,4,1,5,4,0,0,2,1,5.1,12.0,22.0,186,0.4896626768226333
+Leonardo Cerri,Delantero centro,21,"1,98m",it ITA,Juventus,1,0,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,198,0.0
+Ivan Provedel,Portero,30,"1,94m",it ITA,Lazio,30,30,2699,0,0,0,0,0,0,0,0,0.0,0.0,3.0,194,0.0
+Christos Mandas,Portero,22,"1,89m",gr GRE,Lazio,9,8,721,0,0,0,0,0,0,0,0,0.0,0.0,0.0,189,0.0
+Alessio Romagnoli,Defensa central,29,"1,85m",it ITA,Lazio,29,26,2411,0,0,0,0,0,0,9,0,0.6,7.0,87.0,185,0.0
+Nicolò Casale,Defensa central,26,"1,91m",it ITA,Lazio,20,16,1559,0,0,0,0,0,0,5,0,0.9,20.0,49.0,191,0.0
+Mario Gila,Defensa central,23,"1,85m",es ESP,Lazio,21,21,1809,0,0,0,0,0,0,4,1,0.5,21.0,93.0,185,0.0
+Patric,Defensa central,31,"1,84m",es ESP,Lazio,20,19,1608,2,0,2,2,0,0,4,0,1.4,3.0,72.0,184,0.11194029850746269
+Elseid Hysaj,Lateral derecho,30,"1,82m",al ALB,Lazio,22,11,1199,0,0,0,0,0,0,2,0,0.2,27.0,51.0,182,0.0
+Danilo Cataldi,Pivote,29,"1,80m",it ITA,Lazio,28,15,1361,1,0,1,1,0,0,8,0,0.4,9.0,69.0,180,0.06612784717119766
+Matías Vecino,Mediocentro,32,"1,87m",uy URU,Lazio,31,8,1153,6,1,7,6,0,0,8,0,3.7,16.0,74.0,187,0.5464006938421508
+Manuel Lazzari,Interior derecho,30,"1,74m",it ITA,Lazio,24,19,1671,0,2,2,0,0,0,4,1,1.0,73.0,62.0,174,0.10771992818671454
+Daichi Kamada,Mediocentro ofensivo,27,"1,80m",jp JPN,Lazio,29,17,1544,2,2,4,2,0,0,3,0,1.8,40.0,96.0,180,0.23316062176165803
+Luis Alberto,Mediocentro ofensivo,31,"1,83m",es ESP,Lazio,33,29,2311,5,7,12,5,0,0,7,0,4.7,83.0,212.0,183,0.46733016010385114
+Mattia Zaccagni,Extremo izquierdo,29,"1,77m",it ITA,Lazio,28,24,1956,6,1,7,6,0,0,8,0,4.7,88.0,55.0,177,0.3220858895705521
+Gustav Isaksen,Extremo derecho,23,"1,81m",dk DEN,Lazio,28,12,1074,3,1,4,3,0,0,3,0,1.6,36.0,21.0,181,0.33519553072625696
+Felipe Anderson,Extremo derecho,31,"1,75m",br BRA,Lazio,38,33,2770,5,6,11,5,0,0,3,0,4.4,108.0,126.0,175,0.3574007220216606
+Pedro,Extremo derecho,36,"1,67m",es ESP,Lazio,33,5,816,1,1,2,1,0,0,4,0,1.5,31.0,33.0,167,0.22058823529411764
+Ciro Immobile,Delantero centro,34,"1,85m",it ITA,Lazio,31,21,1652,7,1,8,3,4,4,8,0,9.7,19.0,39.0,185,0.43583535108958843
+Wladimiro Falcone,Portero,29,"1,95m",it ITA,Lecce,38,38,3420,0,0,0,0,0,0,0,0,0.0,0.0,1.0,195,0.0
+Marin Pongračić,Defensa central,26,"1,93m",hr CRO,Lecce,36,36,3219,0,0,0,0,0,0,10,1,1.2,45.0,134.0,193,0.0
+Federico Baschirotto,Defensa central,27,"1,87m",it ITA,Lecce,37,37,3294,0,1,1,0,0,0,3,1,1.7,28.0,96.0,187,0.0273224043715847
+Ahmed Touba,Defensa central,26,"1,90m",dz ALG,Lecce,6,3,277,0,0,0,0,0,0,1,0,0.0,0.0,2.0,190,0.0
+Patrick Dorgu,Lateral izquierdo,19,"1,85m",dk DEN,Lecce,32,17,1564,2,0,2,2,0,0,6,0,2.0,37.0,49.0,185,0.11508951406649617
+Antonino Gallo,Lateral izquierdo,24,"1,83m",it ITA,Lecce,35,30,2490,0,3,3,0,0,0,2,0,0.5,69.0,125.0,183,0.10843373493975904
+Valentin Gendrey,Lateral derecho,24,"1,79m",fr FRA,Lecce,37,35,3044,2,3,5,2,0,0,5,0,1.6,76.0,116.0,179,0.1478318002628121
+Lorenzo Venuti,Lateral derecho,29,"1,79m",it ITA,Lecce,14,3,364,0,0,0,0,0,0,1,0,0.1,7.0,16.0,179,0.0
+Ylber Ramadani,Pivote,28,"1,85m",al ALB,Lecce,34,34,2970,1,0,1,1,0,0,13,0,1.0,36.0,121.0,185,0.030303030303030304
+Alexis Blin,Pivote,27,"1,86m",fr FRA,Lecce,31,16,1642,0,2,2,0,0,0,4,0,1.1,7.0,60.0,186,0.10962241169305725
+Youssef Maleh,Mediocentro,25,"1,79m",ma MAR,Empoli,34,30,2602,0,1,1,0,0,0,11,0,1.6,17.0,117.0,179,0.034588777863182166
+Mohamed Kaba,Mediocentro,22,"1,85m",fr FRA,Lecce,23,15,1378,0,0,0,0,0,0,4,1,1.2,14.0,60.0,185,0.0
+Hamza Rafia,Mediocentro,25,"1,81m",tn TUN,Lecce,28,17,1204,1,0,1,1,0,0,4,0,0.8,15.0,46.0,181,0.07475083056478406
+Medon Berisha,Mediocentro,20,"1,86m",al ALB,Lecce,6,2,205,0,0,0,0,0,0,0,0,0.2,3.0,7.0,186,0.0
+Lameck Banda,Extremo izquierdo,23,"1,69m",zm ZAM,Lecce,21,17,1350,2,4,6,2,0,0,5,1,3.6,70.0,22.0,169,0.4
+Federico Di Francesco,Extremo izquierdo,30,"1,71m",it ITA,Lecce,2,0,15,1,0,1,1,0,0,0,0,0.1,1.0,1.0,171,6.0
+Nicola Sansone,Extremo izquierdo,32,"1,74m",it ITA,Lecce,25,4,767,2,2,4,2,0,0,4,0,2.8,15.0,36.0,174,0.46936114732724904
+Pontus Almqvist,Extremo derecho,24,"1,83m",se SWE,Lecce,30,25,2107,2,1,3,2,0,0,5,0,2.3,72.0,32.0,183,0.12814428096820124
+Santiago Pierotti,Extremo derecho,23,"1,89m",ar ARG,Lecce,11,0,200,0,2,2,0,0,0,0,0,0.5,4.0,5.0,189,0.8999999999999999
+Jeppe Corfitzen,Extremo derecho,19,"1,79m",dk DEN,Lecce,1,0,9,0,0,0,0,0,0,0,0,0.0,1.0,0.0,179,0.0
+Nikola Krstović,Delantero centro,24,"1,85m",me MNE,Lecce,35,30,2373,7,1,8,6,1,3,4,1,11.6,32.0,52.0,185,0.3034134007585335
+Alessandro Sorrentino,Portero,22,"1,90m",it ITA,Monza,7,5,548,0,0,0,0,0,0,0,0,0.0,0.0,0.0,190,0.0
+Andrea Carboni,Defensa central,23,"1,87m",it ITA,Monza,21,16,1487,1,0,1,1,0,0,1,0,1.2,13.0,46.0,187,0.0605245460659045
+Pablo Marí,Defensa central,30,"1,93m",es ESP,Monza,34,30,2615,0,0,0,0,0,0,7,0,0.4,2.0,62.0,193,0.0
+Armando Izzo,Defensa central,32,"1,83m",it ITA,Monza,23,20,1650,0,0,0,0,0,0,9,0,0.7,15.0,59.0,183,0.0
+Luca Caldirola,Defensa central,33,"1,86m",it ITA,Monza,29,23,2141,1,1,2,1,0,0,7,1,0.5,10.0,56.0,186,0.08407286314806166
+Davide Bettella,Defensa central,24,"1,85m",it ITA,Monza,1,0,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,185,0.0
+Danilo D'Ambrosio,Defensa central,35,"1,80m",it ITA,Monza,24,16,1536,0,0,0,0,0,0,5,1,0.7,12.0,61.0,180,0.0
+Samuele Birindelli,Lateral derecho,24,"1,76m",it ITA,Monza,35,22,2013,0,2,2,0,0,0,7,0,1.1,63.0,70.0,176,0.08941877794336811
+Pedro Pereira,Lateral derecho,26,"1,85m",pt POR,Monza,23,9,841,0,2,2,0,0,0,3,0,0.2,20.0,43.0,185,0.2140309155766944
+Giulio Donati,Lateral derecho,34,"1,78m",it ITA,Monza,4,0,36,0,0,0,0,0,0,2,0,0.0,0.0,3.0,178,0.0
+Matteo Pessina,Mediocentro,27,"1,87m",it ITA,Monza,37,37,3222,6,3,9,2,4,5,5,1,6.3,69.0,190.0,187,0.25139664804469275
+Warren Bondo,Mediocentro,20,"1,77m",fr FRA,Monza,25,14,1475,1,1,2,1,0,0,9,0,0.9,31.0,43.0,177,0.12203389830508474
+Roberto Gagliardini,Mediocentro,30,"1,88m",it ITA,Monza,33,29,2360,1,2,3,1,0,0,5,0,2.9,38.0,120.0,188,0.11440677966101695
+Patrick Ciurria,Interior derecho,29,"1,78m",it ITA,Monza,22,18,1598,0,1,1,0,0,0,2,0,1.5,41.0,68.0,178,0.05632040050062578
+Andrea Colpani,Mediocentro ofensivo,25,"1,84m",it ITA,Monza,38,36,2657,8,4,12,8,0,0,1,0,4.8,90.0,120.0,184,0.40647346631539333
+Samuele Vignato,Mediocentro ofensivo,20,"1,72m",it ITA,Monza,10,3,343,1,0,1,1,0,0,2,0,1.7,13.0,13.0,172,0.2623906705539359
+Alessio Zerbin,Extremo izquierdo,25,"1,82m",it ITA,Monza,13,7,684,0,1,1,0,0,0,2,1,0.4,17.0,20.0,182,0.13157894736842105
+Andrea Ferraris,Extremo izquierdo,21,-,it ITA,Monza,1,0,10,0,0,0,0,0,0,0,0,0.0,0.0,1.0,,0.0
+Papu Gómez,Extremo izquierdo,36,"1,67m",ar ARG,Monza,2,0,41,0,0,0,0,0,0,0,0,0.0,2.0,3.0,167,0.0
+Dany Mota,Mediapunta,26,"1,80m",pt POR,Monza,34,24,2049,4,3,7,4,0,0,3,0,3.6,112.0,57.0,180,0.3074670571010249
+Gianluca Caprari,Mediapunta,30,"1,71m",it ITA,Monza,6,4,285,0,0,0,0,0,0,0,0,0.7,11.0,15.0,171,0.0
+Mirko Marić,Delantero centro,29,"1,88m",hr CRO,Monza,10,1,287,1,0,1,1,0,0,0,1,0.9,2.0,4.0,188,0.313588850174216
+Alex Meret,Portero,27,"1,90m",it ITA,Napoli,31,31,2773,0,0,0,0,0,0,0,0,0.0,0.0,0.0,190,0.0
+Pierluigi Gollini,Portero,29,"1,94m",it ITA,Napoli,7,7,630,0,0,0,0,0,0,0,0,0.0,0.0,0.0,194,0.0
+Amir Rrahmani,Defensa central,30,"1,92m",xk KVX,Napoli,30,30,2600,3,0,3,3,0,0,5,0,2.2,19.0,113.0,192,0.10384615384615384
+Natan,Defensa central,23,"1,88m",br BRA,Napoli,14,11,952,0,0,0,0,0,0,3,1,0.4,15.0,34.0,188,0.0
+Juan Jesus,Defensa central,33,"1,85m",br BRA,Napoli,24,23,2116,1,0,1,1,0,0,7,0,1.3,6.0,82.0,185,0.04253308128544423
+Mathías Olivera,Lateral izquierdo,26,"1,85m",uy URU,Napoli,23,18,1569,1,1,2,1,0,0,3,0,0.5,31.0,89.0,185,0.1147227533460803
+Mário Rui,Lateral izquierdo,33,"1,68m",pt POR,Napoli,21,14,1205,0,2,2,0,0,0,7,1,0.1,33.0,90.0,168,0.14937759336099585
+Giovanni Di Lorenzo,Lateral derecho,30,"1,83m",it ITA,Napoli,36,36,3234,1,6,7,1,0,0,6,0,3.1,95.0,304.0,183,0.19480519480519481
+Alessandro Zanoli,Lateral derecho,23,"1,88m",it ITA,Salernitana,17,10,921,0,2,2,0,0,0,3,0,0.2,27.0,28.0,188,0.19543973941368079
+Pasquale Mazzocchi,Lateral derecho,28,"1,83m",it ITA,Salernitana,18,16,1272,0,1,1,0,0,0,4,0,0.3,36.0,36.0,183,0.07075471698113207
+Stanislav Lobotka,Pivote,29,"1,68m",sk SVK,Napoli,38,38,3282,0,1,1,0,0,0,4,0,0.6,29.0,188.0,168,0.027422303473491772
+Jens Cajuste,Pivote,24,"1,88m",se SWE,Napoli,26,11,1016,0,2,2,0,0,0,7,0,1.5,19.0,37.0,188,0.17716535433070865
+Leander Dendoncker,Pivote,29,"1,88m",be BEL,Napoli,3,0,24,0,0,0,0,0,0,0,0,0.0,0.0,2.0,188,0.0
+Diego Demme,Pivote,32,"1,70m",de GER,Napoli,2,1,73,0,0,0,0,0,0,1,0,0.0,3.0,5.0,170,0.0
+Piotr Zieliński,Mediocentro,30,"1,80m",pl POL,Napoli,28,23,1924,3,2,5,2,1,1,1,0,2.6,38.0,131.0,180,0.2338877338877339
+Gianluca Gaetano,Mediocentro ofensivo,24,"1,83m",it ITA,Cagliari,11,10,745,4,1,5,3,1,1,1,1,1.3,17.0,41.0,183,0.6040268456375838
+Khvicha Kvaratskhelia,Extremo izquierdo,23,"1,83m",ge GEO,Napoli,34,32,2737,11,6,17,11,0,0,8,0,11.1,184.0,89.0,183,0.5590062111801242
+Jesper Lindstrøm,Extremo derecho,24,"1,82m",dk DEN,Napoli,22,2,430,0,0,0,0,0,0,2,0,0.7,16.0,16.0,182,0.0
+Matteo Politano,Extremo derecho,30,"1,71m",it ITA,Napoli,37,31,2360,8,7,15,6,2,3,2,1,7.1,113.0,164.0,171,0.5720338983050848
+Cyril Ngonge,Extremo derecho,24,"1,80m",be BEL,Hellas Verona,19,17,1431,6,2,8,6,0,0,4,0,4.2,53.0,44.0,180,0.5031446540880503
+Giacomo Raspadori,Mediapunta,24,"1,72m",it ITA,Napoli,37,14,1584,5,3,8,5,0,1,0,0,5.9,29.0,54.0,172,0.45454545454545453
+Victor Osimhen,Delantero centro,25,"1,86m",ng NGA,Napoli,25,22,1982,15,3,18,12,3,5,6,1,15.4,34.0,23.0,186,0.8173562058526741
+Giovanni Simeone,Delantero centro,28,"1,80m",ar ARG,Napoli,28,8,800,1,0,1,1,0,0,3,0,3.4,11.0,13.0,180,0.11249999999999999
+Mile Svilar,Portero,24,"1,89m",rs SRB,Roma,15,15,1350,0,0,0,0,0,0,1,0,0.0,0.0,0.0,189,0.0
+Rui Patrício,Portero,36,"1,90m",pt POR,Roma,23,23,2070,0,0,0,0,0,0,1,0,0.0,0.0,0.0,190,0.0
+Gianluca Mancini,Defensa central,28,"1,90m",it ITA,Roma,36,34,2869,4,1,5,4,0,0,9,0,1.9,38.0,139.0,190,0.15684907633321715
+Dean Huijsen,Defensa central,19,"1,97m",es ESP,Roma,13,4,509,2,0,2,2,0,0,4,0,0.4,4.0,18.0,197,0.3536345776031434
+Diego Llorente,Defensa central,30,"1,86m",es ESP,Roma,29,27,2170,1,1,2,1,0,0,5,0,0.3,20.0,75.0,186,0.08294930875576037
+Marash Kumbulla,Defensa central,24,"1,91m",al ALB,Sassuolo,7,3,362,0,0,0,0,0,0,1,0,0.0,2.0,3.0,191,0.0
+Chris Smalling,Defensa central,34,"1,94m",eng ENG,Roma,8,4,390,0,0,0,0,0,0,0,0,0.0,1.0,13.0,194,0.0
+Leonardo Spinazzola,Lateral izquierdo,31,"1,86m",it ITA,Roma,24,15,1312,1,2,3,1,0,0,0,0,0.2,108.0,52.0,186,0.20579268292682928
+Rasmus Kristensen,Lateral derecho,26,"1,87m",dk DEN,Roma,29,19,1744,1,1,2,1,0,0,5,0,0.5,16.0,40.0,187,0.10321100917431193
+Zeki Çelik,Lateral derecho,27,"1,80m",tr TUR,Roma,17,6,671,0,0,0,0,0,0,1,0,0.2,14.0,26.0,180,0.0
+Rick Karsdorp,Lateral derecho,29,"1,84m",nl NED,Roma,18,14,1191,0,2,2,0,0,0,2,0,0.4,12.0,33.0,184,0.15113350125944586
+Bryan Cristante,Pivote,29,"1,86m",it ITA,Roma,37,37,3289,3,4,7,3,0,0,8,0,4.0,47.0,234.0,186,0.1915475828519307
+Leandro Paredes,Pivote,30,"1,80m",ar ARG,Roma,34,32,2634,3,5,8,0,3,3,15,1,3.3,36.0,214.0,180,0.2733485193621868
+Edoardo Bove,Mediocentro,22,"1,81m",it ITA,Roma,31,18,1780,0,2,2,0,0,0,2,0,2.0,21.0,88.0,181,0.10112359550561797
+Renato Sanches,Mediocentro,26,"1,76m",pt POR,Roma,7,1,146,1,0,1,1,0,0,2,0,0.1,5.0,10.0,176,0.6164383561643836
+Riccardo Pagano,Mediocentro,19,"1,75m",it ITA,Roma,4,0,51,0,0,0,0,0,0,0,0,0.1,1.0,3.0,175,0.0
+Nicola Zalewski,Interior izquierdo,22,"1,75m",pl POL,Roma,22,10,968,0,1,1,0,0,0,3,1,0.8,54.0,33.0,175,0.09297520661157024
+Lorenzo Pellegrini,Mediocentro ofensivo,28,"1,86m",it ITA,Roma,29,20,1859,8,3,11,7,1,1,7,0,4.8,43.0,94.0,186,0.5325443786982249
+Houssem Aouar,Mediocentro ofensivo,26,"1,75m",dz ALG,Roma,16,9,756,4,0,4,4,0,0,3,0,2.3,17.0,26.0,175,0.47619047619047616
+Stephan El Shaarawy,Extremo izquierdo,31,"1,78m",it ITA,Roma,33,19,1738,3,4,7,3,0,0,2,0,2.5,46.0,44.0,178,0.3624856156501726
+Ola Solbakken,Extremo derecho,25,"1,89m",no NOR,Roma,1,0,23,0,0,0,0,0,0,0,0,0.0,1.0,0.0,189,0.0
+Paulo Dybala,Mediapunta,30,"1,77m",ar ARG,Roma,28,25,1959,13,9,22,6,7,7,3,0,10.6,79.0,122.0,177,1.010719754977029
+Tammy Abraham,Delantero centro,26,"1,94m",eng ENG,Roma,8,2,242,1,0,1,1,0,0,1,0,0.6,6.0,4.0,194,0.371900826446281
+Romelu Lukaku,Delantero centro,31,"1,91m",be BEL,Roma,32,30,2641,13,3,16,13,0,1,5,1,9.8,37.0,37.0,191,0.5452480121166224
+Sardar Azmoun,Delantero centro,29,"1,86m",ir IRN,Roma,23,3,585,3,0,3,3,0,0,4,0,2.9,5.0,14.0,186,0.46153846153846156
+Guillermo Ochoa,Portero,38,"1,85m",mx MEX,Salernitana,21,21,1890,0,0,0,0,0,0,0,0,0.0,0.0,0.0,185,0.0
+Benoît Costil,Portero,36,"1,88m",fr FRA,Salernitana,13,13,1170,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Vincenzo Fiorillo,Portero,34,"1,90m",it ITA,Salernitana,4,4,360,0,0,0,0,0,0,1,1,0.0,0.0,0.0,190,0.0
+Flavius Daniliuc,Defensa central,23,"1,88m",at AUT,Salernitana,14,8,744,0,0,0,0,0,0,2,0,0.2,8.0,37.0,188,0.0
+Lorenzo Pirola,Defensa central,22,"1,85m",it ITA,Salernitana,27,24,1987,1,0,1,1,0,0,4,0,0.9,13.0,57.0,185,0.04529441368897836
+Matteo Lovato,Defensa central,24,"1,88m",it ITA,Torino,13,6,544,0,0,0,0,0,0,2,0,0.0,0.0,4.0,188,0.0
+Norbert Gyömbér,Defensa central,31,"1,89m",sk SVK,Salernitana,22,20,1760,0,0,0,0,0,0,9,0,0.2,4.0,42.0,189,0.0
+Jérôme Boateng,Defensa central,35,"1,92m",de GER,Salernitana,7,4,238,0,0,0,0,0,0,0,0,0.0,0.0,9.0,192,0.0
+Federico Fazio,Defensa central,37,"1,95m",ar ARG,Salernitana,17,15,1355,1,0,1,1,0,0,3,1,0.4,2.0,27.0,195,0.06642066420664207
+Domagoj Bradarić,Lateral izquierdo,24,"1,78m",hr CRO,Salernitana,34,30,2749,0,3,3,0,0,0,5,0,0.8,57.0,76.0,178,0.09821753364859949
+Junior Sambia,Lateral derecho,27,"1,85m",fr FRA,Salernitana,18,10,1032,1,2,3,1,0,0,4,0,0.5,23.0,41.0,185,0.2616279069767442
+Niccolò Pierozzi,Lateral derecho,22,"1,84m",it ITA,Salernitana,12,11,871,1,0,1,1,0,0,6,0,0.2,3.0,16.0,184,0.10332950631458095
+Lassana Coulibaly,Mediocentro,28,"1,83m",ml MLI,Salernitana,28,25,2082,0,1,1,0,0,0,5,0,0.6,29.0,88.0,183,0.043227665706051875
+Giulio Maggiore,Mediocentro,26,"1,84m",it ITA,Salernitana,27,20,1800,4,2,6,4,0,0,9,1,2.3,8.0,64.0,184,0.3
+Toma Bašić,Mediocentro,27,"1,90m",hr CRO,Salernitana,15,14,1162,0,0,0,0,0,0,5,0,0.6,11.0,53.0,190,0.0
+Agustín Martegani,Mediocentro ofensivo,24,"1,82m",ar ARG,Salernitana,18,6,731,1,0,1,1,0,0,1,0,0.6,14.0,28.0,182,0.12311901504787963
+Grigoris Kastanos,Mediocentro ofensivo,26,"1,79m",cy CYP,Salernitana,26,18,1480,3,3,6,3,0,0,5,0,2.9,28.0,78.0,179,0.3648648648648649
+Antonio Candreva,Mediocentro ofensivo,37,"1,80m",it ITA,Salernitana,34,32,2750,6,6,12,5,1,1,5,0,4.9,67.0,149.0,180,0.3927272727272727
+Iron Gomis,Mediocentro ofensivo,24,"1,82m",fr FRA,Salernitana,5,1,134,0,0,0,0,0,0,0,0,0.6,3.0,4.0,182,0.0
+Jovane Cabral,Extremo izquierdo,26,"1,74m",cv CPV,Salernitana,12,8,678,1,0,1,1,0,0,1,0,1.2,22.0,40.0,174,0.13274336283185842
+Loum Tchaouna,Extremo derecho,20,"1,80m",fr FRA,Salernitana,33,23,2100,4,3,7,4,0,0,4,0,2.6,72.0,59.0,180,0.3
+Emanuel Vignato,Extremo derecho,23,"1,75m",it ITA,Salernitana,9,3,311,0,1,1,0,0,0,1,0,0.0,5.0,11.0,175,0.28938906752411575
+Boulaye Dia,Delantero centro,27,"1,80m",sn SEN,Salernitana,17,12,1143,4,0,4,3,1,1,1,0,3.9,18.0,22.0,180,0.31496062992125984
+Erik Botheim,Delantero centro,24,"1,87m",no NOR,Salernitana,7,4,316,0,0,0,0,0,0,1,0,0.1,3.0,5.0,187,0.0
+Chukwubuikem Ikwuemesi,Delantero centro,22,"1,95m",ng NGA,Salernitana,25,11,1061,1,1,2,1,0,0,2,0,2.4,11.0,10.0,195,0.16965127238454286
+Shon Weissman,Delantero centro,28,"1,74m",il ISR,Salernitana,11,5,494,1,0,1,1,0,0,0,0,1.0,0.0,4.0,174,0.18218623481781376
+Gerardo Fusco,Delantero centro,19,"1,88m",it ITA,Salernitana,1,0,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Alessio Cragno,Portero,30,"1,84m",it ITA,Sassuolo,3,3,270,0,0,0,0,0,0,0,0,0.0,0.0,0.0,184,0.0
+Andrea Consigli,Portero,37,"1,89m",it ITA,Sassuolo,35,35,3150,0,0,0,0,0,0,1,0,0.0,0.0,1.0,189,0.0
+Mattia Viti,Defensa central,22,"1,90m",it ITA,Sassuolo,15,12,979,1,0,1,1,0,0,0,0,1.0,2.0,36.0,190,0.09193054136874361
+Ruan,Defensa central,25,"1,87m",br BRA,Sassuolo,26,16,1516,0,0,0,0,0,0,7,1,0.5,8.0,33.0,187,0.0
+Gian Marco Ferrari,Defensa central,32,"1,89m",it ITA,Sassuolo,31,25,2272,1,0,1,1,0,0,4,0,1.6,32.0,148.0,189,0.03961267605633803
+Kevin Miranda,Defensa central,21,"1,88m",it ITA,Sassuolo,1,0,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,188,0.0
+Matías Viña,Lateral izquierdo,26,"1,75m",uy URU,Sassuolo,15,13,1014,0,3,3,0,0,0,1,0,0.3,24.0,46.0,175,0.2662721893491124
+Josh Doig,Lateral izquierdo,22,"1,89m",sct SCO,Hellas Verona,12,11,830,0,0,0,0,0,0,2,0,0.2,23.0,15.0,189,0.0
+Jeremy Toljan,Lateral derecho,29,"1,82m",de GER,Sassuolo,25,24,2083,0,5,5,0,0,0,1,0,0.6,35.0,79.0,182,0.21603456553048486
+Filippo Missori,Lateral derecho,20,"1,82m",it ITA,Sassuolo,8,2,266,0,0,0,0,0,0,0,0,0.3,5.0,8.0,182,0.0
+Daniel Boloca,Pivote,25,"1,85m",ro ROU,Sassuolo,30,23,2022,1,0,1,1,0,0,6,1,0.5,27.0,109.0,185,0.04451038575667656
+Luca Lipani,Pivote,19,"1,85m",it ITA,Sassuolo,8,5,384,0,0,0,0,0,0,0,0,0.1,6.0,20.0,185,0.0
+Uroš Račić,Pivote,26,"1,93m",rs SRB,Sassuolo,22,8,820,1,1,2,1,0,0,1,0,0.8,5.0,37.0,193,0.21951219512195122
+Matheus Henrique,Mediocentro,26,"1,75m",br BRA,Sassuolo,31,27,2501,2,2,4,2,0,0,8,1,2.3,43.0,94.0,175,0.1439424230307877
+Justin Kumi,Mediocentro,19,-,it ITA,Sassuolo,1,0,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,,0.0
+Pedro Obiang,Mediocentro,32,"1,86m",gq EQG,Sassuolo,8,5,453,0,0,0,0,0,0,1,0,0.0,4.0,21.0,186,0.0
+Marcus Pedersen,Interior derecho,23,"1,84m",no NOR,Sassuolo,28,16,1613,0,2,2,0,0,0,4,0,0.1,43.0,31.0,184,0.1115933044017359
+Kristian Thorstvedt,Mediocentro ofensivo,25,"1,89m",no NOR,Sassuolo,34,30,2397,6,1,7,6,0,0,7,0,4.4,30.0,130.0,189,0.26282853566958697
+Nedim Bajrami,Mediocentro ofensivo,25,"1,79m",al ALB,Sassuolo,28,15,1310,2,2,4,2,0,0,0,0,2.5,51.0,49.0,179,0.2748091603053435
+Cristian Volpato,Mediocentro ofensivo,20,"1,87m",it ITA,Sassuolo,22,5,645,1,0,1,1,0,0,1,0,0.5,34.0,53.0,187,0.13953488372093023
+Domenico Berardi,Extremo derecho,29,"1,83m",it ITA,Sassuolo,17,17,1431,9,3,12,4,5,5,6,0,6.5,38.0,83.0,183,0.7547169811320754
+Samu Castillejo,Extremo derecho,29,"1,82m",es ESP,Sassuolo,17,6,536,0,0,0,0,0,0,2,0,0.3,27.0,26.0,182,0.0
+Andrea Pinamonti,Delantero centro,25,"1,85m",it ITA,Sassuolo,38,37,3076,11,1,12,9,2,3,4,0,8.9,17.0,45.0,185,0.3511053315994799
+Samuele Mulattieri,Delantero centro,23,"1,83m",it ITA,Sassuolo,27,1,462,0,0,0,0,0,0,1,0,1.6,8.0,1.0,183,0.0
+Grégoire Defrel,Delantero centro,33,"1,79m",mq MTQ,Sassuolo,20,7,757,1,2,3,1,0,0,0,0,1.0,7.0,17.0,179,0.35667107001321
+Vanja Milinković-Savić,Portero,27,"2,02m",rs SRB,Torino,36,36,3240,0,0,0,0,0,0,2,0,0.0,0.0,0.0,202,0.0
+Luca Gemello,Portero,23,"1,90m",it ITA,Torino,2,2,180,0,0,0,0,0,0,0,0,0.0,0.0,0.0,190,0.0
+Alessandro Buongiorno,Defensa central,25,"1,90m",it ITA,Torino,29,29,2527,3,0,3,3,0,0,7,0,1.6,14.0,62.0,190,0.10684606252473287
+Perr Schuurs,Defensa central,24,"1,91m",nl NED,Torino,9,9,770,1,0,1,1,0,0,2,0,0.7,9.0,19.0,191,0.11688311688311688
+David Zima,Defensa central,23,"1,92m",cz CZE,Torino,5,0,91,0,0,0,0,0,0,0,0,0.0,1.0,1.0,192,0.0
+Saba Sazonov,Defensa central,22,"1,94m",ge GEO,Torino,12,2,356,0,0,0,0,0,0,2,0,0.2,0.0,8.0,194,0.0
+Koffi Djidji,Defensa central,31,"1,84m",ci CIV,Torino,13,8,759,0,0,0,0,0,0,2,0,0.1,4.0,19.0,184,0.0
+Alessandro Dellavalle,Defensa central,20,"1,89m",it ITA,Torino,1,0,15,0,0,0,0,0,0,0,0,0.0,0.0,1.0,189,0.0
+Ricardo Rodríguez,Lateral izquierdo,31,"1,82m",ch SUI,Torino,35,34,2772,1,2,3,1,0,0,4,0,0.3,61.0,127.0,182,0.09740259740259741
+Mërgim Vojvoda,Lateral derecho,29,"1,87m",xk KVX,Torino,28,15,1379,0,3,3,0,0,0,3,0,0.4,30.0,91.0,187,0.19579405366207395
+Samuele Ricci,Pivote,22,"1,81m",it ITA,Torino,32,28,2395,1,2,3,1,0,0,8,1,1.3,47.0,122.0,181,0.1127348643006263
+Ivan Ilić,Mediocentro,23,"1,86m",rs SRB,Torino,31,25,2098,3,2,5,3,0,0,3,0,2.1,49.0,138.0,186,0.21448999046711154
+Karol Linetty,Mediocentro,29,"1,75m",pl POL,Torino,28,19,1858,0,0,0,0,0,0,12,0,0.5,31.0,87.0,175,0.0
+Gvidas Gineitis,Mediocentro,20,"1,91m",lt LTU,Torino,14,4,538,0,0,0,0,0,0,2,0,0.4,9.0,25.0,191,0.0
+Raoul Bellanova,Interior derecho,24,"1,88m",it ITA,Torino,37,36,3046,1,7,8,1,0,0,5,0,2.0,141.0,98.0,188,0.23637557452396588
+Brandon Soppy,Interior derecho,22,"1,80m",fr FRA,Torino,5,2,178,0,0,0,0,0,0,0,0,0.0,9.0,6.0,180,0.0
+Valentino Lazaro,Interior izquierdo,28,"1,81m",at AUT,Torino,35,21,1994,0,4,4,0,0,0,3,0,1.7,53.0,94.0,181,0.18054162487462388
+Nikola Vlašić,Mediocentro ofensivo,26,"1,79m",hr CRO,Torino,33,30,2608,3,2,5,3,0,0,3,0,2.4,67.0,150.0,179,0.17254601226993865
+Simone Verdi,Mediocentro ofensivo,31,"1,74m",it ITA,Torino,1,0,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,174,0.0
+Antonio Sanabria,Delantero centro,28,"1,80m",py PAR,Torino,35,23,2133,5,0,5,3,2,2,2,0,9.3,19.0,57.0,180,0.2109704641350211
+Pietro Pellegri,Delantero centro,23,"1,89m",it ITA,Torino,24,7,756,1,1,2,1,0,0,3,0,1.0,14.0,8.0,189,0.23809523809523808
+David Okereke,Delantero centro,26,"1,81m",ng NGA,Torino,9,3,252,0,0,0,0,0,0,0,0,0.2,8.0,7.0,181,0.0
+Maduka Okoye,Portero,24,"1,98m",ng NGA,Udinese,21,21,1890,0,0,0,0,0,0,2,0,0.0,0.0,0.0,198,0.0
+Marco Silvestri,Portero,33,"1,91m",it ITA,Udinese,17,17,1530,0,0,0,0,0,0,0,0,0.0,0.0,0.0,191,0.0
+Jaka Bijol,Defensa central,25,"1,90m",si SVN,Udinese,24,23,2084,0,0,0,0,0,0,4,0,1.9,5.0,42.0,190,0.0
+Thomas Kristensen,Defensa central,22,"1,98m",dk DEN,Udinese,26,23,2096,0,1,1,0,0,0,4,1,1.1,20.0,47.0,198,0.042938931297709926
+Enzo Ebosse,Defensa central,25,"1,85m",cm CMR,Udinese,1,0,8,0,0,0,0,0,0,0,0,0.0,0.0,1.0,185,0.0
+Christian Kabasele,Defensa central,33,"1,87m",be BEL,Udinese,13,10,861,1,1,2,1,0,0,5,0,1.2,7.0,22.0,187,0.20905923344947736
+Jordan Zemura,Lateral izquierdo,24,"1,73m",zw ZIM,Udinese,27,10,1038,1,0,1,1,0,0,1,0,0.8,23.0,32.0,173,0.08670520231213873
+Hassane Kamara,Lateral izquierdo,30,"1,70m",ci CIV,Udinese,35,27,2225,1,1,2,1,0,0,4,0,1.9,61.0,81.0,170,0.08089887640449439
+Kingsley Ehizibue,Lateral derecho,29,"1,89m",nl NED,Udinese,23,11,955,0,1,1,0,0,0,4,0,1.3,18.0,15.0,189,0.09424083769633508
+João Ferreira,Lateral derecho,23,"1,85m",pt POR,Udinese,35,18,1822,0,1,1,0,0,0,9,0,0.1,19.0,61.0,185,0.04939626783754117
+Walace,Pivote,29,"1,88m",br BRA,Udinese,37,37,3238,2,0,2,2,0,0,7,0,0.8,37.0,127.0,188,0.05558987029030266
+Sandi Lovrić,Mediocentro,26,"1,80m",si SVN,Udinese,29,21,1987,1,3,4,1,0,0,1,1,3.5,52.0,80.0,180,0.18117765475591344
+Martín Payero,Mediocentro,25,"1,82m",ar ARG,Udinese,29,21,1796,2,2,4,2,0,0,6,1,1.5,47.0,71.0,182,0.20044543429844097
+Oier Zarraga,Mediocentro,25,"1,75m",es ESP,Udinese,15,4,404,2,0,2,2,0,0,0,0,0.6,5.0,8.0,175,0.44554455445544555
+Roberto Pereyra,Mediocentro,33,"1,82m",ar ARG,Udinese,27,22,1858,4,3,7,3,1,1,6,0,3.5,39.0,70.0,182,0.33907427341227125
+Marley Aké,Extremo izquierdo,23,"1,78m",fr FRA,Udinese,1,0,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,178,0.0
+Florian Thauvin,Mediapunta,31,"1,81m",fr FRA,Udinese,29,19,1710,5,3,8,4,1,1,4,0,4.7,71.0,69.0,181,0.42105263157894735
+Beto,Delantero centro,26,"1,94m",gw GNB,Udinese,1,1,74,0,0,0,0,0,0,0,0,0.0,0.0,2.0,194,0.0
+Brenner,Delantero centro,24,"1,75m",br BRA,Udinese,8,2,189,0,0,0,0,0,0,0,0,0.4,6.0,8.0,175,0.0
+Keinan Davis,Delantero centro,26,"1,89m",eng ENG,Udinese,8,0,186,1,0,1,1,0,0,2,0,0.5,2.0,6.0,189,0.48387096774193544
+Isaac Success,Delantero centro,28,"1,82m",ng NGA,Udinese,27,9,880,1,1,2,1,0,1,4,0,2.7,15.0,17.0,182,0.20454545454545453
+Vivaldo Semedo,Delantero centro,19,"1,92m",pt POR,Udinese,1,0,12,0,0,0,0,0,0,0,0,0.0,1.0,0.0,192,0.0
+Lorenzo Montipò,Portero,28,"1,91m",it ITA,Hellas Verona,37,37,3330,0,1,1,0,0,0,0,0,0.0,0.0,0.0,191,0.02702702702702703
+Simone Perilli,Portero,29,"1,96m",it ITA,Hellas Verona,1,1,90,0,0,0,0,0,0,0,0,0.0,0.0,0.0,196,0.0
+Diego Coppola,Defensa central,20,"1,93m",it ITA,Hellas Verona,24,18,1634,2,0,2,2,0,0,9,0,1.2,1.0,40.0,193,0.11015911872705018
+Bruno Amione,Defensa central,22,"1,87m",ar ARG,Hellas Verona,10,7,579,0,0,0,0,0,0,2,0,0.3,2.0,17.0,187,0.0
+Giangiacomo Magnani,Defensa central,28,"1,92m",it ITA,Hellas Verona,33,27,2444,0,0,0,0,0,0,6,0,0.5,15.0,79.0,192,0.0
+Paweł Dawidowicz,Defensa central,29,"1,89m",pl POL,Hellas Verona,28,25,2143,0,0,0,0,0,0,5,0,0.5,11.0,89.0,189,0.0
+Rúben Vinagre,Lateral izquierdo,25,"1,74m",pt POR,Hellas Verona,12,2,282,0,0,0,0,0,0,0,0,0.0,6.0,8.0,174,0.0
+Fabien Centonze,Lateral derecho,28,"1,82m",fr FRA,Hellas Verona,10,7,676,0,1,1,0,0,0,2,0,0.0,16.0,14.0,182,0.13313609467455623
+Martin Hongla,Pivote,26,"1,82m",cm CMR,Hellas Verona,15,12,1084,0,0,0,0,0,0,0,0,0.1,6.0,57.0,182,0.0
+Reda Belahyane,Pivote,20,"1,73m",fr FRA,Hellas Verona,2,1,90,0,0,0,0,0,0,0,0,0.0,1.0,4.0,173,0.0
+Charlys,Pivote,20,"1,88m",br BRA,Hellas Verona,2,0,25,0,0,0,0,0,0,0,0,0.0,0.0,1.0,188,0.0
+Michael Folorunsho,Mediocentro,26,"1,90m",it ITA,Hellas Verona,34,33,2781,5,1,6,5,0,0,5,0,4.0,56.0,54.0,190,0.1941747572815534
+Ondrej Duda,Mediocentro,29,"1,80m",sk SVK,Hellas Verona,32,29,2456,1,4,5,1,0,1,14,2,2.2,34.0,117.0,180,0.18322475570032573
+Darko Lazović,Interior izquierdo,33,"1,81m",rs SRB,Hellas Verona,32,22,1928,3,2,5,2,1,1,0,1,2.8,43.0,66.0,181,0.23340248962655602
+Riccardo Saponara,Mediocentro ofensivo,32,"1,83m",it ITA,Hellas Verona,12,3,342,0,0,0,0,0,0,0,0,0.1,12.0,14.0,183,0.0
+Stefan Mitrović,Extremo izquierdo,21,"1,82m",rs SRB,Hellas Verona,10,4,391,0,0,0,0,0,0,0,0,0.4,13.0,15.0,182,0.0
+Tijjani Noslin,Extremo derecho,24,"1,78m",nl NED,Hellas Verona,17,17,1339,5,4,9,5,0,0,2,0,3.6,29.0,26.0,178,0.6049290515309933
+Elayis Tavsan,Extremo derecho,23,"1,83m",nl NED,Hellas Verona,3,0,50,0,0,0,0,0,0,0,0,0.1,2.0,2.0,183,0.0
+Yayah Kallon,Extremo derecho,23,"1,75m",sl SLE,Hellas Verona,1,0,4,0,0,0,0,0,0,0,0,0.0,0.0,1.0,175,0.0
+Federico Bonazzoli,Delantero centro,27,"1,85m",it ITA,Hellas Verona,24,10,1016,3,1,4,3,0,0,2,0,2.9,13.0,26.0,185,0.3543307086614173
+Thomas Henry,Delantero centro,29,"1,91m",fr FRA,Hellas Verona,18,2,334,3,0,3,3,0,1,2,2,3.3,2.0,3.0,191,0.8083832335329341
